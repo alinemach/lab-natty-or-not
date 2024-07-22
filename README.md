@@ -41,7 +41,10 @@ Para gerar o podcast criei prompts diferentes para título, saudações e desped
 3. [Prompts](src/prompts/dalle.md) de artes no `DALL·E 3`
 
 ## 🚀 Resultados
-### [Confira o Podcast Clicando Aqui](/src/output/podcast.mp3)
+
+| ### [Confira o Podcast Clicando Aqui](/src/output/podcast.mp3) |
+|--------------------------------------------------------------|
+
 Vale salientar que a música de fundo utlizada pertence e foi criada por [Kevin McLeod](https://youtu.be/TRiBpYgjFD4?si=0l9X5kDHDyb1-M5g)
 
 ## 💭 Reflexão (Opcional)
