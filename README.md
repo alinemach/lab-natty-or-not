@@ -9,7 +9,6 @@
     <audio src="output/podcast.mp3" controls title="Podcast"></audio>
 </div>
 
-```markdown
 # Podcast - Habilidades de Freire com Hooks
 
 ## 📒 Descrição
@@ -48,4 +47,3 @@ Vale salientar que a música de fundo utlizada pertence e foi criada por [Kevin 
 ## 💭 Reflexão (Opcional)
 Criar um podcast utilizando IAs generativas como ChatGPT, DALL-E 3 e ElevenLabs foi uma experiência incrivelmente positiva e inspiradora. Ao usar o ChatGPT para gerar conteúdos, prompts criativos para títulos, saudações e despedidas, eu pude ver a eficiência e a precisão dessa tecnologia em ação. Além disso, com DALL-E 3, consegui criar uma capa de projeto única e visualmente atraente, enquanto o ElevenLabs me ajudou a polir e aprimorar os elementos de áudio, tudo de maneira rápida e sem esforço. Essas ferramentas mostraram-se inestimáveis ao automatizar tarefas repetitivas e acelerando significativamente os resultados. <br>É importante ressaltar que, em nenhum momento, senti que essas IAs poderiam substituir a criatividade, a emoção e o toque humano que coloco em meu trabalho. Pelo contrário, elas me proporcionaram uma base sólida e eficiente, permitindo que eu me concentrasse nos aspectos mais humanos e criativos do projeto. Sinto-me extremamente segura e confiante em utilizar essas tecnologias, sabendo que estão aqui para nos auxiliar e potencializar nossas capacidades, e não para nos substituir.
 
-```
