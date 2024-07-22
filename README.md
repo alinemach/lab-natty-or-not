@@ -36,12 +36,12 @@ O objetivo do podcast "Habilidades de Freire com Hooks" é ajudar as pessoas a d
 Para gerar o podcast criei prompts diferentes para título, saudações e despedida, para gerar o conteúdo e para gerar a capa do projeto. Abaixo mostro cada um deles com seus respectivos links:
 
 
-- 1. [Prompts](src/prompts/chatgpt.md) de roteiro no `chagpt`
-- 2. [Prompts](src/prompts/roteiro-gerado-pelo-chatgpt.md) de roteiro gerados pelo chatgpt para ser lido no  `ElevenLabs`
-- 3. [Prompts](src/prompts/dalle.md) de artes no `DALL·E 3`
+1. [Prompts](src/prompts/chatgpt.md) de roteiro no `chagpt`
+2. [Prompts](src/prompts/roteiro-gerado-pelo-chatgpt.md) de roteiro gerados pelo chatgpt para ser lido no  `ElevenLabs`
+3. [Prompts](src/prompts/dalle.md) de artes no `DALL·E 3`
 
 ## 🚀 Resultados
-### [Confira o Podcast](/src/output/podcast.mp3)
+### [Confira o Podcast Clicando Aqui](/src/output/podcast.mp3)
 Vale salientar que a música de fundo utlizada pertence e foi criada por [Kevin McLeod](https://youtu.be/TRiBpYgjFD4?si=0l9X5kDHDyb1-M5g)
 
 ## 💭 Reflexão (Opcional)
